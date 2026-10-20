@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "theme": "Serigrafia",
+    "question": "A Serigrafia (silk-screen) pertence a qual categoria de processo de impressão quanto ao tipo de sua matriz?",
+    "time_limit": 25,
+    "options": [
+      "Permeográfico (a tinta é forçada através das aberturas da malha)",
+      "Relevográfico (a imagem a ser impressa fica em alto-relevo)",
+      "Encavográfico (a imagem fica em cavidades/baixo-relevo)",
+      "Planográfico (grafismo e não-grafismo estão no mesmo nível)"
+    ],
+    "correct": 0,
+    "explanation": "Na serigrafia a matriz é uma malha porosa (poliéster ou náilon). A tinta passa apenas pelas áreas vazadas onde não há emulsão!"
+  },
+  {
+    "id": 2,
+    "theme": "Rotogravura",
+    "question": "Como a imagem é gravada na matriz do processo de Rotogravura?",
+    "time_limit": 25,
+    "options": [
+      "Em microporos em uma tela de tecido tensionada",
+      "Em alvéolos (reentrâncias em baixo-relevo) em um cilindro de cobre",
+      "Em uma chapa metálica plana através da repulsão de água e gordura",
+      "Em um fotopolímero flexível em alto-relevo colado no cilindro"
+    ],
+    "correct": 1,
+    "explanation": "A rotogravura é um processo encavográfico (baixo-relevo). Os cilindros de aço e cobre possuem milhões de minúsculas células (alvéolos) que seguram a tinta."
+  },
+  {
+    "id": 3,
+    "theme": "Rotogravura",
+    "question": "Por que a Rotogravura é o padrão da indústria para embalagens de salgadinho (BOPP) e rótulos de grande escala?",
+    "time_limit": 25,
+    "options": [
+      "Porque a gravação dos cilindros é barata e compensa poucas unidades",
+      "Porque é um processo artesanal feito manualmente folha por folha",
+      "Pela altíssima velocidade e uniformidade em tiragens gigantescas, diluindo o custo dos cilindros",
+      "Porque só funciona em papéis foscos e cartões de alta gramatura"
+    ],
+    "correct": 2,
+    "explanation": "A gravação de cilindros de rotogravura é cara, mas em tiragens de centenas de milhares ou milhões de metros, o custo unitário fica incrivelmente baixo com máxima velocidade!"
+  },
+  {
+    "id": 4,
+    "theme": "Serigrafia",
+    "question": "Qual é uma das principais vantagens técnicas da Serigrafia para o Design Gráfico?",
+    "time_limit": 25,
+    "options": [
+      "Velocidade de mais de 100.000 impressões por hora",
+      "Deposição de camada espessa e opaca de tinta, imprimindo em quase qualquer material (tecido, vidro, madeira)",
+      "Resolução microscópica de retículas infinitamente superior ao offset",
+      "Dispensa o uso de tintas líquidas, usando apenas calor"
+    ],
+    "correct": 1,
+    "explanation": "A serigrafia deposita de 10 a 20 vezes mais tinta que o offset ou flexografia, gerando cores vivas e alta cobertura em praticamente qualquer suporte tridimensional ou plano."
+  },
+  {
+    "id": 5,
+    "theme": "Duelo: Serigrafia vs Rotogravura",
+    "question": "Qual componente é responsável por raspar o excesso de tinta do cilindro na Rotogravura antes do contato com o material?",
+    "time_limit": 25,
+    "options": [
+      "Rodo de poliuretano (puxador)",
+      "Doctor Blade (lâmina raspadora de aço)",
+      "Emulsão fotossensível diazoica",
+      "Bastidor de madeira com presilhas"
+    ],
+    "correct": 1,
+    "explanation": "Pegadinha de prova! A Doctor Blade raspa o excesso do cilindro na Rotogravura. Já o rodo de poliuretano é a ferramenta usada na Serigrafia para puxar a tinta pela tela!"
+  }
+]
